@@ -197,3 +197,21 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.eclipse.ui 2 2 2019-08-08 14:53:49.270
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-08 15:27:12.851
+!MESSAGE Preparing classpath changed notification ObjectMaster
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-08 15:27:12.852
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-08 15:27:12.853
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-08 15:27:12.853
+!MESSAGE buffering callback sts4.classpath.QBxQTggN ObjectMaster false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-08 15:27:12.854
+!MESSAGE executing callback sts4.classpath.QBxQTggN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-08 15:27:12.859
+!MESSAGE executing callback sts4.classpath.QBxQTggN SUCCESS [done]
